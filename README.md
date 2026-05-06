@@ -16,7 +16,7 @@ This project is part of the FAIR Data Science assignment. The goal is to develop
 - fig_<name>.png → output visualizations
 
 ## Contributors
-- A: Your Name (Your ID)
-- B: Name (ID)
-- C: Name (ID)
-- D: Name (ID)
+A,Hassan,Ali,12448698
+B,Valcinov,Enrico,01501066
+C,Farhan,Muhammad,12450786
+D,Younis,Sameer,12450766
