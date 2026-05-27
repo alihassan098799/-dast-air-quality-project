@@ -1,0 +1,37 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Machine Learning Prediction of Urban Air Quality",
+      "description": "FAIR Data Science experiment package for urban air quality prediction.",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "hasPart": [
+        {
+          "@id": "src/train_model.py"
+        },
+        {
+          "@id": "data/raw/air_quality_dataset.csv"
+        },
+        {
+          "@id": "docs/model-card.md"
+        },
+        {
+          "@id": "codemeta.json"
+        },
+        {
+          "@id": "docs/metadata/fair4ml-random-forest.json"
+        }
+      ],
+      "sameAs": [
+        "https://github.com/alihassan098799/-dast-air-quality-project",
+        "https://doi.org/10.5281/zenodo.20378637",
+        "https://test.dbrepo.tuwien.ac.at/database/ed511834-2154-4cee-8676-0ec57829e465/info",
+        "https://handle.test.datacite.org/10.82556/037y-wk92",
+        "https://handle.test.datacite.org/10.82556/8xrb-a603",
+        "https://doi.org/10.70124/rnr36-1rn91"
+      ]
+    }
+  ]
+}

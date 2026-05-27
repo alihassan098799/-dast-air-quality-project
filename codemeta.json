@@ -1,0 +1,36 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Machine Learning Prediction of Urban Air Quality",
+  "version": "1.0",
+  "codeRepository": "https://github.com/alihassan098799/-dast-air-quality-project",
+  "programmingLanguage": "Python",
+  "runtimePlatform": "Python 3.11",
+  "license": "MIT",
+  "softwareRequirements": [
+    "pandas==2.2.2",
+    "numpy==1.26.4",
+    "scikit-learn==1.5.1",
+    "matplotlib==3.9.0",
+    "joblib==1.4.2"
+  ],
+  "author": [
+    {
+      "givenName": "Ali",
+      "familyName": "Hassan",
+      "identifier": "https://orcid.org/0009-0003-2342-8405"
+    },
+    {
+      "givenName": "Enrico",
+      "familyName": "Valcinov"
+    },
+    {
+      "givenName": "Muhammad",
+      "familyName": "Farhan"
+    },
+    {
+      "givenName": "Sameer",
+      "familyName": "Younis"
+    }
+  ]
+}

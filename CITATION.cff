@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Machine Learning Prediction of Urban Air Quality"
+authors:
+  - family-names: Hassan
+    given-names: Ali
+    orcid: "https://orcid.org/0009-0003-2342-8405"
+  - family-names: Valcinov
+    given-names: Enrico
+  - family-names: Farhan
+    given-names: Muhammad
+  - family-names: Younis
+    given-names: Sameer
+version: "1.0"
+doi: "10.5281/zenodo.20378637"
+url: "https://github.com/alihassan098799/-dast-air-quality-project"
+date-released: "2026-05-27"
+license: "CC-BY-4.0"
